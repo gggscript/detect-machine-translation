@@ -16,5 +16,11 @@
     "analytics"
   ],
   "author": "gggscript",
-  "license": "CC0-1.0"
+  "license": "CC0-1.0",
+  "homepage": "https://github.com/gggscript/detect-machine-translation",
+  "bugs": "https://github.com/gggscript/detect-machine-translation/issues",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:gggscript/detect-machine-translation.git"
+  }
 }
