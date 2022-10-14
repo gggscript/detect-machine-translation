@@ -1,0 +1,20 @@
+{
+  "name": "detect-machine-translation",
+  "version": "1.0.0",
+  "description": "Detect if the current website has been machine-translated",
+  "type": "module",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "keywords": [
+    "web",
+    "translation",
+    "detect",
+    "identify",
+    "translator",
+    "machine-translation",
+    "machine-translated",
+    "analytics"
+  ],
+  "author": "gggscript",
+  "license": "CC0-1.0"
+}
