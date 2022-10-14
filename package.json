@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Detect if the current website has been machine-translated",
   "type": "module",
-  "main": "index.js",
+  "browser": "index.js",
   "types": "index.d.ts",
   "keywords": [
     "web",
